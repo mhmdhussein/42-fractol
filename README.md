@@ -9,7 +9,7 @@ The **Fract-ol** project is an introduction to computer graphics using the MiniL
 * Renders different fractals:
 
   * Mandelbrot set
-  * Julia set (with interactive mouse motion)
+  * Julia set
 * Zoom in/out with the mouse wheel for infinite detail.
 * Built using **MiniLibX** for lightweight graphics handling.
 
